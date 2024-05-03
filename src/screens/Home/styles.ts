@@ -3,9 +3,7 @@ export const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#131016',
-        padding: 24,
-        
-
+        padding: 24
     },
     eventTitle: {
         fontSize: 24,
@@ -17,4 +15,7 @@ export const styles = StyleSheet.create({
         fontSize: 16,
         color: 'grey'
     },
+    input: {
+        
+    }
 })
