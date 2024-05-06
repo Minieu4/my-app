@@ -22,5 +22,25 @@ export const styles = StyleSheet.create({
         color:'#FFF',
         padding: 16,
         fontSize:16
-        }
+    },
+    buttonText: {
+        color: '#FFF',
+        fontSize: 24,
+        fontWeight: 'bold'
+    },
+    button: {
+        backgroundColor: '#31CF67',
+        borderRadius: 25,
+        height: 56,
+        width: 56,
+        justifyContent: 'center',
+        alignItems: 'center',
+        marginTop: 20,
+        padding: 16
+    },
+    form: {
+        marginTop: 20,
+        width: '100%',
+        flexDirection: 'row',
+    },
 })
